@@ -1,1 +1,2 @@
-export * from './hit.sensor';
+export * from './actuation.sensor';
+export * from './switch.sensor';
