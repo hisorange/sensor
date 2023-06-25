@@ -1,4 +1,4 @@
-import { AbstractSensor } from './abstract.sensor';
+import { AbstractSensor } from '../abstract.sensor';
 
 export class SwitchSensor extends AbstractSensor {
   protected state: boolean = false;

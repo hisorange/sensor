@@ -1,6 +1,7 @@
-import { AbstractSensor } from './abstract.sensor';
+import { AbstractSensor } from '../abstract.sensor';
 
-// DRAFT
+// WIP
+// Create a lowMemory impact sensor with a timer, and a timerless sensor with date.now
 
 /**
  * Measure the throughput of a system, within the predefined interval.

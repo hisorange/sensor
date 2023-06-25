@@ -1,4 +1,4 @@
-import { AbstractSensor } from './abstract.sensor';
+import { AbstractSensor } from '../abstract.sensor';
 
 export class ActuationSensor extends AbstractSensor<number> {
   protected memory: number = 0;

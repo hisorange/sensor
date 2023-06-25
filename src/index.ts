@@ -1,2 +1,3 @@
-export * from './actuation.sensor';
-export * from './switch.sensor';
+export * from './sensors/actuation.sensor';
+export * from './sensors/memory.sensor';
+export * from './sensors/switch.sensor';

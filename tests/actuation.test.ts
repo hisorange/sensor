@@ -1,4 +1,3 @@
-import { describe } from 'node:test';
 import { ActuationSensor } from '../src';
 
 describe('Actuation', () => {
