@@ -15,3 +15,13 @@ for (let i = 0; i < 10; i++) {
 
 console.log(sensor.read()); // 10
 ```
+
+## MemorySensor
+
+Measures the memory usage of the current process.
+
+```ts
+const sensor = new MemorySensor();
+
+console.log(sensor.read()); // 123456 bytes
+```
