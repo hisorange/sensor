@@ -1,7 +1,7 @@
 {
   "name": "@hisorange/sensor",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "build/index.js",
   "license": "GPL-3.0",
   "access": "public",
   "repository": {
