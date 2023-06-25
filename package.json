@@ -1,8 +1,13 @@
 {
   "name": "@hisorange/sensor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "GPL-3.0",
+  "access": "public",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hisorange/sensor.git"
+  },
   "scripts": {
     "test": "jest",
     "prebuild": "rimraf build",
